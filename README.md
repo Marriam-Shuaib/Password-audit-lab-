@@ -13,7 +13,7 @@ home lab environment using Kali Linux and Metasploitable 2.
 nmap, SSH, SCP, unshadow, rockyou wordlist, John the Ripper
 
 ## Full Report
-See Password-Audit-Report for the complete methodology,
+See Password-Audit-lab docx for the complete methodology,
 findings, and screenshots.
 
 ## Disclaimer
